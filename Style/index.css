@@ -1,0 +1,867 @@
+
+    .header {
+        padding-top: 30px;
+        text-align: center;
+    }
+    
+    
+    .video a{
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        font-family: 'Permanent Marker', cursive;
+        font-size: 15px;  
+    }
+
+    .container{
+        text-align: center;
+        width:1050px;
+        padding-left: 70px; 
+       
+    }
+    
+    .navbar{
+        overflow: hidden;
+        background-color: black;
+        padding: 14px 16px;
+        
+    }
+    
+    .navbar a{
+        float: center;
+        color: magenta;
+        text-align: center;
+        padding: 14px 16px;
+        font-family: 'Permanent Marker', cursive;
+        font-size: 15px;
+        text-decoration: none;
+        display: block;
+        
+    }
+    
+    .navbar a:hover {
+        background-color: white;
+        color: black;
+    
+    }
+
+    .navbar #myLinks {
+        display: none;
+    }
+    
+    
+    .topnav a.icon {
+        background: black;
+        display: block;
+        position: absolute;
+        right: 0;
+        top: 0;
+      }
+
+    .style{
+        width:350px;
+        height:140px;
+    }
+    
+    .style2{
+        width:1050px; 
+        height:450px;
+    }
+    
+    .row{
+        display:flex;
+        text-align: center;
+    
+    }
+    
+    
+    .row2{
+        display:flex;
+        text-align: center;
+    
+    }
+    
+    .row3{
+        display:flex;
+        text-align: center;
+    
+    }
+
+    
+    .col{
+        flex-grow: 1;
+    
+    }
+
+    .dimension{
+        width: 200px; 
+        height: 200px;
+        border-style: hidden;
+        text-align: center;
+        
+    }
+
+    .dimension1{
+        width: 200px; 
+        height: 200px;
+        border-style: hidden;
+        text-align: center;
+        
+    }
+    
+    .font1{
+        font-family: 'Noto Sans', sans-serif;
+    }
+
+    .font2{
+
+        box-shadow: 0 1px 1px;
+        background-color: black;
+        padding-top: 1px;
+        padding-bottom: 1px;
+        width: 40%;  
+        position:relative; left:80px;
+        text-align: center;
+        float: center;
+        color: white;
+     
+    } 
+
+    
+    .font{
+        font-family: 'Permanent Marker', cursive;
+        
+        
+    }
+    
+    .font1{
+        font-family: 'Noto Sans', sans-serif;
+        
+        
+    }
+    
+    .card{
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        
+          }
+    
+    .dimension2{
+        width: 300px; 
+        height: 200px;
+        text-align: center;
+    
+    }
+    
+    .gallery {
+        height: 100%;
+        width: 100%;
+        display: grid;
+        animation: zoomin 1s ease;
+    
+      }
+          
+    .dimension3{
+        width: 255px; 
+        height: 200px;
+        text-align: center;
+        
+    
+    }
+    
+    .split {
+        float: left;
+        width: 50%;
+        padding: 15px;
+          
+    }
+    
+    .left {
+        float: center;
+        font-family: 'Noto Sans', sans-serif;
+        
+    }
+      
+    .right {
+        float: center;
+        font-family: 'Noto Sans', sans-serif;
+        
+        
+    }
+    
+    input[type=text] {
+        text-align: left;
+        font-size: small;
+        width: 95%;
+        padding: 10px;
+        border: 2px solid #ccc;
+        margin-top: 6px;
+        margin-bottom: 17px;
+        
+    }
+    
+    textarea[type=textarea] {
+        text-align: left;
+        font-size: small;
+        width: 95%;
+        padding: 10px;
+        border: 2px solid #ccc;
+        margin-top: 6px;
+        margin-bottom: 17px;
+        height: 170px;
+    }
+    
+    
+    input[type=submit] {
+        background-color: palevioletred;
+        font-size: medium;
+        color: black;
+        font-weight: bold;
+        width: 100%;
+        padding: 10px;
+        border:black;
+        margin-bottom: 17px;
+        cursor: pointer;
+        
+        
+      }
+    
+    input[type=submit]:hover {
+        background-color:magenta ;
+    
+    }
+    
+    .border{
+        box-shadow: 0 4px 8px;
+        padding: 2px 8px;
+        width: 100%;
+        text-align: left;
+    
+    }
+    
+    .footer{
+        padding-top: 2px;
+        padding-bottom: 2px;
+        background-color:black;
+        font-family: 'Noto Sans', sans-serif;
+        color: white;
+        text-align: center;
+      
+    
+    }
+    
+    .font2{
+        box-shadow: 0 1px 1px;
+        background-color: black;
+        padding-top: 1px;
+        padding-bottom: 1px;
+        width: 40%;  
+        position:relative; left:80px;
+        text-align: center;
+        float: center;
+        color: white;
+        
+    }
+    
+    .font2:hover {
+        background-color:gray;
+    }
+    
+    .left2 {
+        float: left;
+        font-family: 'Noto Sans', sans-serif;
+        text-align: center;
+        
+    }
+      
+    .right2 {
+        float: right;
+        font-family: 'Noto Sans', sans-serif;
+        text-align: center;
+        
+        
+    }
+    
+    .left3{
+        float: left;
+        font-family: 'Noto Sans', sans-serif;
+        text-align: left;
+    
+    }
+
+    .Map{
+        width:100%;
+    }
+
+
+@media only screen and (max-width: 375px){
+
+    .header {
+        padding-top: 30px;
+        text-align: center;
+    }
+    
+    
+    .video a{
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        font-family: 'Permanent Marker', cursive;
+        font-size: 15px;  
+    }
+    
+    .navbar{
+        overflow: hidden;
+        background-color: black;
+        padding: 14px 16px;
+        
+    }
+    
+    .navbar a{
+        float: center;
+        color: magenta;
+        text-align: center;
+        padding: 14px 16px;
+        font-family: 'Permanent Marker', cursive;
+        font-size: 15px;
+        text-decoration: none;
+        display: block;
+        
+    }
+    
+    .navbar a:hover {
+        background-color: white;
+        color: black;
+    
+    }
+
+    .navbar #myLinks {
+        display: none;
+    }
+    
+    
+    .topnav a.icon {
+        background: black;
+        display: block;
+        position: absolute;
+        right: 0;
+        top: 0;
+      }
+
+    .container{
+        text-align: center;
+        width:90%;
+        padding-left: 15px; 
+        padding-right: 15px;
+        margin: 0 auto;
+      
+    }
+
+    
+    .style{
+        width:150px;
+        height:60px;
+    }
+    
+    .style2{
+        width:1050px;
+        height:450px;
+    }
+
+    .row{ 
+        flex-direction: column;
+        
+    }
+    
+    .row2{ 
+        flex-direction: column;
+    }
+
+    .row3{
+        flex-direction: column;
+
+    }
+
+    .col{
+        width: 100%;
+       
+    }
+
+    
+    .dimension{
+        width: 160px; 
+        height: 160px;
+        border-style: hidden;
+        text-align: center;
+       
+    }
+
+    .dimension1{
+        width: 200px; 
+        height: 200px;
+        border-style: hidden;
+        text-align: center;
+       
+    }
+
+    .font{
+        font-family: 'Permanent Marker', cursive;
+     
+    }
+    
+    .font1{
+        font-family: 'Noto Sans', sans-serif;
+      
+    }
+
+    .font2{
+        box-shadow: 0 1px 1px;
+        background-color: black;
+        padding-top: 0px;
+        padding-bottom: 1px;
+        width: 30%;
+        text-align: center;
+        color:white;
+        margin-left: auto;
+        margin-right: auto;
+      
+    } 
+
+    .card{
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    }
+    
+    .dimension2{
+        width: 300px; 
+        height: 200px;
+        text-align: center;
+
+        
+    
+    }
+    
+    .gallery {
+        height: 100%;
+        width: 100%;
+        display: grid;
+       
+    
+      }
+
+     
+    .dimension3{
+        width: 255px; 
+        height: 200px;
+        text-align: center;
+        
+    
+    }
+
+    .split {
+        text-align: center;
+        width:95%;
+        padding-left: 15px; 
+        padding-right: 15px;
+          
+    }
+
+    .left{
+        float:center;  
+        font-family: 'Noto Sans', sans-serif;
+        
+    }
+
+    .right {
+        float: center;
+        font-family: 'Noto Sans', sans-serif;
+     
+    }
+
+    input[type=text] {
+        text-align: left;
+        font-size: small;
+        width: 95%;
+        padding: 10px;
+        border: 2px solid #ccc;
+        margin-top: 6px;
+        margin-bottom: 17px;
+        
+    }
+    
+    textarea[type=textarea] {
+        text-align: left;
+        font-size: small;
+        width: 95%;
+        padding: 10px;
+        border: 2px solid #ccc;
+        margin-top: 6px;
+        margin-bottom: 17px;
+        height: 170px;
+    }
+    
+    
+    input[type=submit] {
+        background-color: palevioletred;
+        font-size: medium;
+        color: black;
+        font-weight: bold;
+        width: 100%;
+        padding: 10px;
+        border:black;
+        margin-bottom: 17px;
+        cursor: pointer;
+        
+        
+      }
+    
+    input[type=submit]:hover {
+        background-color:magenta ;
+    
+    }
+    
+    .border{
+        box-shadow: 0 2px 8px;
+        padding: 0 12px;
+        width: 96%;
+       
+    }
+    
+    .footer{
+        padding-top: 2px;
+        padding-bottom: 2px;
+        background-color:black;
+        font-family: 'Noto Sans', sans-serif;
+        color: white;
+        text-align: center;
+      
+    
+    }
+
+    .left2 {
+        float: center;
+        font-family: 'Noto Sans', sans-serif;
+        text-align: center;
+        
+    }
+      
+    .right2 {
+        float: center;
+        font-family: 'Noto Sans', sans-serif;
+        text-align: center;
+
+    }
+
+    
+    .font2{
+        box-shadow: 0 1px 1px;
+        background-color: black;
+        padding-top: 0.5px;
+        padding-bottom: 0,5px;
+        left:50px;
+        text-align: center;
+        float: center;
+        color: white;
+        
+    }
+    
+    .font2:hover {
+        background-color:gray;
+    }
+    
+    
+    .left3{
+        float: center;
+        font-family: 'Noto Sans', sans-serif;
+        text-align: center;
+    
+
+    }
+
+    .Map{
+        width:100%;
+    }
+
+}
+
+@media only screen and (max-width: 768px) and (min-width: 400px){
+
+    .header {
+        padding-top: 30px;
+        text-align: center;
+    }
+    
+    
+    .video a{
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        font-family: 'Permanent Marker', cursive;
+        font-size: 15px;  
+    }
+    
+    .navbar{
+        background-color: black;
+        padding: 14px 16px;
+        
+    }
+    
+    .navbar a{
+        float: center;
+        color: magenta;
+        text-align: center;
+        padding: 14px 16px;
+        font-family: 'Permanent Marker', cursive;
+        font-size: 15px;
+        text-decoration: none;
+        
+    }
+    
+    .navbar a:hover {
+        background-color: white;
+        color: black;
+    
+    }
+    
+    .container{
+        text-align: center;
+        width:90%;
+        padding-left: 15px; 
+        padding-right: 15px;
+        margin: 0 auto;
+      
+    }
+    
+    .style{
+        width:110px;
+        height:80px;
+    }
+    
+    .style2{
+        width:90%;
+    }
+
+    .row{ 
+        flex-direction: column;
+        
+    }
+    
+    .row2{ 
+        
+        grid-row: 1 / span 2;
+        
+    }
+
+    .row3{
+        display:flex;
+        text-align: center;
+
+    }
+
+    .col{
+        flex: 100%;
+       
+    }
+
+    
+    .dimension{
+        width: 145px; 
+        height: 145px;
+        border-style: hidden;
+        text-align: center;
+       
+    }
+
+    .dimension1{
+        width: 200px; 
+        height: 200px;
+        border-style: hidden;
+        text-align: center;
+       
+    }
+
+    .font2{
+        box-shadow: 0 1px 1px;
+        background-color: black;
+        padding-top: 0.5px;
+        padding-bottom: 0.5px;
+        right:50%;
+        float: center;
+        text-align: center;
+        color: white;
+     
+    } 
+
+    .font{
+        font-family: 'Permanent Marker', cursive;
+        
+        
+    }
+    
+    .font1{
+        font-family: 'Noto Sans', sans-serif;
+        
+        
+    }
+    
+    .card{
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .dimension2{
+        width: 400px; 
+        height: 200px;
+        text-align: center;
+        
+    
+    }
+    
+    .gallery {
+        height: 100%;
+        width: 100%;
+        display: grid;
+       
+    
+      }
+
+     
+    .dimension3{
+        width: 255px; 
+        height: 200px;
+        text-align: center;
+        
+    
+    }
+
+    .split {
+        float:center;
+        font-family: 'Noto Sans', sans-serif;
+        text-align:center;
+        
+     
+    }
+
+    .left{
+        float:center;  
+        
+    }
+
+    input[type=text] {
+        text-align: left;
+        font-size: small;
+        width: 95%;
+        padding: 10px;
+        border: 2px solid #ccc;
+        margin-top: 6px;
+        margin-bottom: 17px;
+        
+    }
+    
+    textarea[type=textarea] {
+        text-align: left;
+        font-size: small;
+        width: 95%;
+        padding: 10px;
+        border: 2px solid #ccc;
+        margin-top: 6px;
+        margin-bottom: 17px;
+        height: 170px;
+    }
+    
+    
+    input[type=submit] {
+        background-color: palevioletred;
+        font-size: medium;
+        color: black;
+        font-weight: bold;
+        width: 100%;
+        padding: 10px;
+        border:black;
+        margin-bottom: 17px;
+        cursor: pointer;
+        
+        
+      }
+    
+    input[type=submit]:hover {
+        background-color:magenta ;
+    
+    }
+    
+    .border{
+        box-shadow: 0 4px 8px;
+        padding: 8px 20px;
+        width: 180%;
+        text-align: left;
+        float: center;
+     
+    }
+    
+    .footer{
+        padding-top: 2px;
+        padding-bottom: 2px;
+        background-color:black;
+        font-family: 'Noto Sans', sans-serif;
+        color: white;
+        text-align: center;
+      
+    
+    }
+
+    .left2 {
+        float:justify;
+        font-family: 'Noto Sans', sans-serif;
+        text-align: center;
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+        text-align:justify;
+        
+    }
+      
+    .right2 {
+        float: justify;
+        font-family: 'Noto Sans', sans-serif;
+        text-align: center;
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+        text-align:justify;
+    }
+
+    
+    .font2{
+        box-shadow: 0 1px 1px;
+        background-color: black;
+        padding-top: 0.5px;
+        padding-bottom: 0,5px;
+        left:50px;
+        text-align: center;
+        float: center;
+        color: white;
+        
+    }
+    
+    .font2:hover {
+        background-color:gray;
+    }
+    
+    
+    .left3{
+        float: center;
+        font-family: 'Noto Sans', sans-serif;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+
+    }
+
+    .Map{
+        width:195%;
+    }
+
+    
+
+}
+
