@@ -105,6 +105,11 @@
     
     }
 
+    .col1{
+        flex-grow: 1;
+
+    }
+
     .dimension{
         width: 200px; 
         height: 200px;
@@ -411,6 +416,12 @@
     .col{
         width: 100%;
        
+    }
+
+    .col1{
+    flex:33.3%
+
+
     }
 
     
