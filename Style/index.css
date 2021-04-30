@@ -396,7 +396,9 @@
     }
     
     .row2{ 
-        flex-direction: column;
+        
+        grid-row: 1 / span 2;
+        
     }
 
     .row3{
