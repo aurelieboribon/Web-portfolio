@@ -305,7 +305,7 @@
     }
 
 
-@media only screen and (max-width: 375px) and (min-width: 100px){
+@media only screen and (max-width: 414px){
 
     .header {
         padding-top: 30px;
