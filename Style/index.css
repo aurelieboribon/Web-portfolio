@@ -623,6 +623,7 @@
     .navbar{
         overflow: hidden;
         background-color: black;
+        position:relative;
         padding: 14px 16px;
         
     }
