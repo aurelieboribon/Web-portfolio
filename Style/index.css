@@ -24,6 +24,7 @@
         overflow: hidden;
         background-color: black;
         padding: 14px 16px;
+        position: relative;
         
     }
     
@@ -50,11 +51,10 @@
     }
     
     
-    .topnav a.icon {
+    .navbar a.icon {
         background: black;
         display: block;
         position: absolute;
-        right: 50px;
         top: 0;
       }
 
