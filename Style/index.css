@@ -475,6 +475,10 @@
         padding-right: 40%;
         text-align: center;
     }
+
+    .card a{
+        text-align:center;
+    }
     
     .dimension2{
         width: 480px; 
