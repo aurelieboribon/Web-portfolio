@@ -449,8 +449,7 @@
     
     .font1{
         font-family: 'Noto Sans', sans-serif;
-        
-        flex:33.3%
+        flex-direction: column;
         
       
     }
