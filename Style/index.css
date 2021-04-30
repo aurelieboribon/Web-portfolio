@@ -151,7 +151,7 @@
         
     }
     
-    .font1{
+    .font6{
         font-family: 'Noto Sans', sans-serif;
         
         
@@ -461,6 +461,11 @@
       
     } 
 
+    .font6{
+        font-family: 'Noto Sans', sans-serif; 
+        padding-right: 40px;
+        padding-left: 40px;
+    }
     
     .card{
         box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -724,6 +729,11 @@
        
     }
 
+    .col1{
+        flex-grow: 1;
+
+    }
+
     
     .dimension{
         width: 145px; 
@@ -755,14 +765,17 @@
 
     .font{
         font-family: 'Permanent Marker', cursive;
-        
-        
+     
     }
     
     .font1{
         font-family: 'Noto Sans', sans-serif;
-        
-        
+     
+    }
+
+    .font6{
+        font-family: 'Noto Sans', sans-serif;
+     
     }
     
     .card{
