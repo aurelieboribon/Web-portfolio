@@ -388,8 +388,9 @@
     }
     
     .style2{
-        width:600px;
+        width:400px;
         height:450px;
+        padding-right: 10%;
     }
 
     .row{ 
