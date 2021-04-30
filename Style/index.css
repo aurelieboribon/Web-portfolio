@@ -150,6 +150,12 @@
         
         
     }
+
+    .font5{
+        font-family: 'Permanent Marker', cursive;
+        
+        
+    }
     
     .font6{
         font-family: 'Noto Sans', sans-serif;
@@ -463,9 +469,7 @@
 
     .font6{
         font-family: 'Noto Sans', sans-serif; 
-        
-       
-        
+      
     }
     
     .card{
@@ -476,7 +480,7 @@
         text-align: center;
     }
 
-    .card a{
+    .font5{
         padding-left: 200px;
     }
     
