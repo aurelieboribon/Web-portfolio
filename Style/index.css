@@ -438,7 +438,7 @@
     .font1{
         font-family: 'Noto Sans', sans-serif;
         text-align: center;
-        padding-left: 31%;
+        padding-left: 50%;
       
     }
 
@@ -454,6 +454,10 @@
         margin-right: auto;
       
     } 
+
+    h3{
+        text-align: center;
+    }
 
     .card{
         box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
