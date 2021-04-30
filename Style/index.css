@@ -611,6 +611,7 @@
     }
     
     .navbar{
+        overflow: hidden;
         background-color: black;
         padding: 14px 16px;
         
@@ -624,6 +625,7 @@
         font-family: 'Permanent Marker', cursive;
         font-size: 15px;
         text-decoration: none;
+        display: block;
         
     }
     
@@ -632,6 +634,19 @@
         color: black;
     
     }
+
+    .navbar #myLinks {
+        display: none;
+    }
+    
+    
+    .topnav a.icon {
+        background: black;
+        display: block;
+        position: absolute;
+        right: 0;
+        top: 0;
+      }
     
     .container{
         text-align: center;
