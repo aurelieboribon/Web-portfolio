@@ -618,7 +618,12 @@
         margin: 0 auto;
       
     }
+
+    .active{
+        background-color: black;
+        color: black;
     
+        }
     
     .navbar{
         overflow: hidden;
@@ -653,7 +658,7 @@
     .navbar a.icon {
         background: black;
         display: block;
-        position: relative;
+        position: absolute;
         right: 0;
         top: 0;
       }
