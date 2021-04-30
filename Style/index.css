@@ -400,7 +400,8 @@
     }
 
     .row3{
-        flex-direction: column;
+        display:flex;
+        text-align: center;
 
     }
 
