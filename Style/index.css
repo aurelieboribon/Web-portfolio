@@ -450,7 +450,7 @@
     .font1{
         font-family: 'Noto Sans', sans-serif;
         
-        padding-left: 250px;
+        flex:33.3%
         
       
     }
