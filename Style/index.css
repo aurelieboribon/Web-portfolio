@@ -478,6 +478,7 @@
 
     .card a{
         text-align:center;
+        float:center;
     }
     
     .dimension2{
