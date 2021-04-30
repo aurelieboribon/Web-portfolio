@@ -477,7 +477,7 @@
     }
 
     .card a{
-        flex:auto;
+        padding-left: 200px;
     }
     
     .dimension2{
