@@ -407,7 +407,10 @@
         
     }
 
-    
+    .row3{
+        flex-direction: column;
+        
+
     }
 
     .col{
@@ -415,13 +418,6 @@
        
     }
 
-    .col1{
-    flex:33.3%
-
-
-    }
-
-    
     .dimension{
         width: 160px; 
         height: 160px;
