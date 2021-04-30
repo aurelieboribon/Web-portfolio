@@ -477,8 +477,7 @@
     }
 
     .card a{
-        text-align:center;
-        float:center;
+        flex:auto;
     }
     
     .dimension2{
