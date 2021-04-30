@@ -330,7 +330,7 @@
     }
 
     .active{
-        background-color: white;
+        background-color: black;
         color: black;
     
         }
@@ -343,7 +343,7 @@
     
     .navbar{
         overflow: hidden;
-        background-color:white;
+        background-color: black;
         position:relative;
         padding: 14px 16px;
         
@@ -438,6 +438,7 @@
     .font1{
         font-family: 'Noto Sans', sans-serif;
         text-align: center;
+        padding-left: 31%;
       
     }
 
