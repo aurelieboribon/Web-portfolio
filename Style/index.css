@@ -455,16 +455,16 @@
 
     .card{
         box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-        width:680px;
+        width:600px;
         height:365px;
         padding-right: 12%;
     }
     
     .dimension2{
-        width: 600px; 
-        height: 240px;
-        float: center;
-
+        width: 500px; 
+        height: 200px;
+        text-align: center;
+        
 
         
     
