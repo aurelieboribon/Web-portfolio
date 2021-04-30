@@ -466,7 +466,7 @@
         width: 480px; 
         height: 200px;
         text-align: center;
-       float: center;
+        margin: auto;
     }
     
     .gallery {
