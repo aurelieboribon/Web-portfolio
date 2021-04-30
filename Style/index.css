@@ -631,58 +631,54 @@
       
     }
 
-    .active{
-        background-color: black;
-        color: black;
-    
-        }
-
-    .fa{
-        display:contents;
-        font-size: 20px;
-        
-        }
-    
     .navbar{
         overflow: hidden;
         background-color: black;
-        position:relative;
-        padding: 14px 16px;
+        position: relative;
         
+    }
+
+    .active{
+    background-color: black;
+    color: black;
+
     }
     
     .navbar a{
         float: center;
         color: magenta;
         text-align: center;
-        padding: 14px 16px;
+        padding: 6px 50px;
         font-family: 'Permanent Marker', cursive;
-        font-size: 12px;
+        font-size: 15px;
         text-decoration: none;
-        display: block;
-        
     }
     
     .navbar a:hover {
-        background-color:black;
-        color: white;
+        background-color: black;
+        color:white;
     
     }
 
     .navbar #myLinks {
-        display: none;
+        display: flex;
+        text-align:center;
+        float:center;
     }
-    
     
     .navbar a.icon {
         background: black;
         display: block;
-        position: absolute;
-        left: 0;
+        position: relative;
         top: 0;
+        left: 0;
+
       }
 
-      
+      .fa{
+        display: none;
+    }
+
     .style{
         width:110px;
         height:80px;
