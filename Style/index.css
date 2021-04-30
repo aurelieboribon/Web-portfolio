@@ -308,7 +308,7 @@
 @media only screen and (max-width: 414px){
 
     .header {
-        padding-top: 100%;
+        padding-top: 90%;
         text-align: center;
         padding-right: 3px;
     }
@@ -325,7 +325,7 @@
     .container{
         text-align: center;
         width:200%;
-        padding-left: 11.5%; 
+        padding-left: 15%; 
         
         
       
