@@ -462,8 +462,9 @@
     
     .dimension2{
         width: 600px; 
-        height: 200px;
-        text-align: center;
+        height: 240px;
+        float: center;
+
 
         
     
