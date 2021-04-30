@@ -650,14 +650,15 @@
     }
     
     
-    .topnav a.icon {
+    .navbar a.icon {
         background: black;
         display: block;
         position: relative;
         right: 0;
         top: 0;
       }
-    
+
+      
     .style{
         width:110px;
         height:80px;
