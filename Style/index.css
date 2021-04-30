@@ -624,7 +624,6 @@
         overflow: hidden;
         background-color: black;
         position:relative;
-        padding: 14px 16px;
         
     }
     
@@ -654,7 +653,7 @@
     .topnav a.icon {
         background: black;
         display: block;
-        position: absolute;
+        position: relative;
         right: 0;
         top: 0;
       }
