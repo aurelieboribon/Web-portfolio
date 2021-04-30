@@ -410,6 +410,7 @@
 
     .col{
         width: 400%;
+        flex-grow: 1;
        
     }
 
