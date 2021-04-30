@@ -27,6 +27,12 @@
         position: relative;
         
     }
+
+    .active{
+    background-color: black;
+    color: black;
+
+    }
     
     .navbar a{
         float: center;
@@ -41,8 +47,8 @@
     }
     
     .navbar a:hover {
-        background-color: white;
-        color: black;
+        background-color: black;
+        color:white;
     
     }
 
@@ -50,12 +56,13 @@
         display: none;
     }
     
-    
     .navbar a.icon {
         background: black;
         display: block;
         position: absolute;
         top: 0;
+        left: 0;
+
       }
 
     .style{
@@ -73,7 +80,6 @@
         text-align: center;
     
     }
-    
     
     .row2{
         display:flex;
@@ -313,7 +319,14 @@
         overflow: hidden;
         background-color: black;
         padding: 14px 16px;
+        position: relative;
         
+    }
+
+    .active{
+    background-color: black;
+    color: black;
+
     }
     
     .navbar a{
@@ -329,8 +342,8 @@
     }
     
     .navbar a:hover {
-        background-color: white;
-        color: black;
+        background-color: black;
+        color:white;
     
     }
 
@@ -338,14 +351,15 @@
         display: none;
     }
     
-    
-    .topnav a.icon {
+    .navbar a.icon {
         background: black;
         display: block;
         position: absolute;
-        right: 0;
         top: 0;
+        left: 0;
+
       }
+
 
     .container{
         text-align: center;
