@@ -67,7 +67,7 @@
 
       }
 
-    .fa{
+      .fa{
         display: none;
     }
 
@@ -624,11 +624,18 @@
         color: black;
     
         }
+
+    .fa{
+        display:contents;
+        font-size: 20px;
+        
+        }
     
     .navbar{
         overflow: hidden;
         background-color: black;
         position:relative;
+        padding: 14px 16px;
         
     }
     
@@ -659,7 +666,7 @@
         background: black;
         display: block;
         position: absolute;
-        right: 0;
+        left: 0;
         top: 0;
       }
 
