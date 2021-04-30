@@ -15,15 +15,16 @@
 
     .container{
         text-align: center;
-        width:1050px;
-        padding-left: 70px; 
+        width:1100px;
+        padding-left: 11.5%; 
+        
        
     }
     
     .navbar{
-        overflow: hidden;
+        
         background-color: black;
-        padding: 14px 16px;
+        padding: 12px 16px;
         position: relative;
         
     }
@@ -42,7 +43,7 @@
         font-family: 'Permanent Marker', cursive;
         font-size: 15px;
         text-decoration: none;
-        display: block;
+        display: flex;
         
     }
     
@@ -53,7 +54,7 @@
     }
 
     .navbar #myLinks {
-        display: none;
+        display: flex;
     }
     
     .navbar a.icon {
@@ -319,14 +320,7 @@
         overflow: hidden;
         background-color: black;
         padding: 14px 16px;
-        position: relative;
         
-    }
-
-    .active{
-    background-color: black;
-    color: black;
-
     }
     
     .navbar a{
@@ -342,8 +336,8 @@
     }
     
     .navbar a:hover {
-        background-color: black;
-        color:white;
+        background-color: white;
+        color: black;
     
     }
 
@@ -351,15 +345,14 @@
         display: none;
     }
     
-    .navbar a.icon {
+    
+    .topnav a.icon {
         background: black;
         display: block;
         position: absolute;
+        right: 0;
         top: 0;
-        left: 0;
-
       }
-
 
     .container{
         text-align: center;
