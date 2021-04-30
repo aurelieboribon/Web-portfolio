@@ -465,7 +465,7 @@
     .dimension2{
         width: 480px; 
         height: 200px;
-        padding-right: 40%;
+        padding-left: 40%;
     }
     
     .gallery {
