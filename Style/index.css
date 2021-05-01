@@ -715,7 +715,9 @@
     }
     
     .style2{
-        width:75%;
+        width:650px;
+        height:450px;
+        padding-right: 10%;
     }
 
     .row{ 
