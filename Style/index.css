@@ -460,11 +460,11 @@
     }
 
     .font2{
-       
+        box-shadow: 0 1px 1px;
         background-color: black;
         padding-top: 0px;
         padding-bottom: 1px;
-        width: 30%;
+        
         text-align: center;
         color:white;
         margin-left: auto;
