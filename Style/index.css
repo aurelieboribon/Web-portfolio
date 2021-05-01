@@ -709,8 +709,10 @@
     }
 
     .row3{
-        display:flex;
-        text-align: center;
+        display: grid;
+        grid-template-columns: auto;
+            
+       }
 
     }
 
