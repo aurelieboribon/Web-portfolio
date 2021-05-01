@@ -419,12 +419,6 @@
         
    }
 
-   .row4{
-    display: grid;
-    grid-template-columns: auto auto;
-    
-}
-
     .col{
         width: 100%;
        
@@ -710,8 +704,8 @@
     }
 
     .row3{
-        display:flex;
-        text-align: center;
+        display: grid;
+        grid-template-columns: auto;
 
     }
 
