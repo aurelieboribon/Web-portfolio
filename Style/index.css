@@ -640,7 +640,7 @@
     .container{
         text-align: center;
         width:110%;
-        padding-left: 21%; 
+        padding-left: 20%; 
       
     }
 
@@ -720,13 +720,13 @@
     .row3{
         display: grid;
         grid-template-columns: auto;
-
-    }
+        
+   }
 
     .row4{
         display:grid;
         grid-template-columns: auto auto;
-        grid-template-rows: auto auto
+        grid-template-rows: auto auto;
         
    }
 
@@ -735,7 +735,6 @@
        
     }
 
-    
     .dimension{
         width: 250px; 
         height: 250px;
