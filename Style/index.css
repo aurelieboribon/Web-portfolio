@@ -35,7 +35,6 @@
     }
     
     .navbar a{
-        float: center;
         color: magenta;
         text-align: center;
         padding: 6px 50px;
@@ -55,7 +54,7 @@
     .navbar #myLinks {
         display: flex;
         text-align:center;
-        float:center;
+       
     }
     
     .navbar a.icon {
@@ -151,7 +150,6 @@
         width: 40%;  
         position:relative; left:80px;
         text-align: center;
-        float: center;
         color: white;
      
     } 
@@ -211,16 +209,13 @@
     }
     
     .left {
-        float: center;
         font-family: 'Noto Sans', sans-serif;
         
     }
       
     .right {
-        float: center;
         font-family: 'Noto Sans', sans-serif;
-        
-        
+      
     }
     
     input[type=text] {
@@ -292,7 +287,7 @@
         width: 40%;  
         position:relative; left:80px;
         text-align: center;
-        float: center;
+       
         color: white;
         
     }
