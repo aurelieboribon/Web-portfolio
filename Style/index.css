@@ -419,21 +419,14 @@
         
    }
 
-   .row3 > div{
-        margin-left: auto;
-        margin-right: auto;
-    
-
-   }
-
     .col{
         width: 100%;
        
     }
 
     .dimension{
-        width: 160px; 
-        height: 160px;
+        width: 170px; 
+        height: 170px;
         border-style: hidden;
         text-align: center;
        
