@@ -435,7 +435,7 @@
         height: 240px;
         border-style: hidden;
         text-align: center;
-        padding-top: 6px;
+       
        
     }
 
@@ -469,7 +469,8 @@
         width: 30%;
         text-align: center;
         color:white;
-        margin-left: 50%;
+        margin-left: 60%;
+        bottom:auto;
        
       
     } 
