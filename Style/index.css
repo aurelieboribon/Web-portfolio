@@ -418,6 +418,12 @@
         grid-template-columns: auto auto;
    }
 
+   .row3 > div{
+    text-align: center;
+    padding: 20px 0;
+
+   }
+
     .col{
         width: 100%;
        
