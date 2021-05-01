@@ -867,7 +867,6 @@
     .left2 {
         float:center;
         font-family: 'Noto Sans', sans-serif;
-        text-align: center;
         position: relative;
         margin-left: auto;
         margin-right: auto;
@@ -878,7 +877,6 @@
     .right2 {
         float: center;
         font-family: 'Noto Sans', sans-serif;
-        text-align: center;
         position: relative;
         margin-left: auto;
         margin-right: auto;
