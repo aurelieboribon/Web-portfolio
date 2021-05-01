@@ -466,9 +466,7 @@
         color:white;
         border-style: hidden;
         text-align: center;
-        margin-left: -150px;
-        top:10%;
-        left: 50%;
+        box-align: center;
 
     } 
 
