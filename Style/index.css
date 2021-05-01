@@ -416,12 +416,12 @@
    .row3{
         display: grid;
         grid-template-columns: auto;
-        margin-left: auto;
-        margin-right: auto;
+        
    }
 
    .row3 > div{
-    float: center;
+        margin-left: auto;
+        margin-right: auto;
     
 
    }
