@@ -368,7 +368,6 @@
     }
     
     .navbar a{
-        float: center;
         color: magenta;
         text-align: center;
         padding: 14px 16px;
@@ -524,13 +523,11 @@
     }
 
     .left{
-        float:center;  
         font-family: 'Noto Sans', sans-serif;
         
     }
 
     .right {
-        float: center;
         font-family: 'Noto Sans', sans-serif;
      
     }
@@ -596,14 +593,12 @@
     }
 
     .left2 {
-        float: center;
         font-family: 'Noto Sans', sans-serif;
         text-align: center;
         
     }
       
     .right2 {
-        float: center;
         font-family: 'Noto Sans', sans-serif;
         text-align: center;
 
@@ -615,7 +610,6 @@
     
     
     .left3{
-        float: center;
         font-family: 'Noto Sans', sans-serif;
         text-align: center;
     
@@ -670,7 +664,6 @@
     }
     
     .navbar a{
-        float: center;
         color: magenta;
         text-align: center;
         padding: 6px 30px;
@@ -817,7 +810,6 @@
     }
 
     .left{
-        float: center;
         font-family: 'Noto Sans', sans-serif;
         text-align: center;
         margin-left: auto;
@@ -826,7 +818,6 @@
     }
 
     .right {
-        float: center;
         font-family: 'Noto Sans', sans-serif;
         text-align: center;
         margin-left: auto;
@@ -898,7 +889,6 @@
     }
 
     .left2 {
-        float:center;
         font-family: 'Noto Sans', sans-serif;
         position: relative;
         margin-left: auto;
@@ -908,7 +898,6 @@
     }
       
     .right2 {
-        float: center;
         font-family: 'Noto Sans', sans-serif;
         position: relative;
         margin-left: auto;
@@ -924,7 +913,6 @@
         padding-bottom: 0,5px;
         left:50px;
         text-align: center;
-        float: center;
         color: white;
         
     }
