@@ -796,7 +796,18 @@
             padding-right: 15px;
     }
 
-    
+    .left{
+        float:center;  
+        font-family: 'Noto Sans', sans-serif;  
+        
+    }
+
+    .right {
+        float: center;
+        font-family: 'Noto Sans', sans-serif;
+     
+    }
+
     input[type=text] {
         text-align: left;
         font-size: small;
