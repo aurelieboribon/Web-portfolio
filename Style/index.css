@@ -693,7 +693,7 @@
 
       }
 
-      .fa{
+    .fa{
         display: none;
     }
 
@@ -725,18 +725,13 @@
 
     .row4{
         display:grid;
-        grid-template-columns: repeat(2, 100px);
+        grid-template-columns: auto auto;
         
    }
 
     .col{
         width: 100%;
        
-    }
-
-    .col1{
-        flex-grow: 1;
-
     }
 
     
