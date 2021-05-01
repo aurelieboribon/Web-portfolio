@@ -419,6 +419,12 @@
         
    }
 
+   .row4{
+    display: grid;
+    grid-template-columns: auto auto;
+    
+}
+
     .col{
         width: 100%;
        
