@@ -633,6 +633,11 @@
       
     }
 
+    .p{
+    font-size: 12px;
+
+    }
+
     .navbar{
         overflow: hidden;
         background-color: black;
