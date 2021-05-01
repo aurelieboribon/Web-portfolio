@@ -469,8 +469,9 @@
 
     .font6{
         font-family: 'Noto Sans', sans-serif; 
-        text-align:left;
+        text-align:center;
         padding-left: 55%;
+        float:left;
        
       
     }
