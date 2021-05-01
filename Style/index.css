@@ -652,7 +652,7 @@
     .container{
         text-align: center;
         width:110%;
-        padding-left: 30%; 
+        padding-left: 50%; 
       
     }
 
@@ -734,8 +734,8 @@
    }
 
     .row4{
-        display:grid;
-        grid-template-columns: auto auto;
+        display:flex;
+        text-align: center;
         
    }
 
