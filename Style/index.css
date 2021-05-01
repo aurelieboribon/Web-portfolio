@@ -466,8 +466,10 @@
         color:white;
         border-style: hidden;
         text-align: center;
-        margin-left: 400px;
-        margin-right: 300px;
+        top: 50%;
+        left: 50%;
+        margin-left: -150px;
+        margin-top: -100px;
 
     } 
 
