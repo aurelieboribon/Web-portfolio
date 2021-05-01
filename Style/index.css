@@ -460,12 +460,8 @@
     }
 
     .font2{
-        box-shadow: 0 1px 1px;
-        background-color: black;
-        text-align: center;
-        color:white;
-        padding-right: 2px;
-        padding-left: 2px;
+        font-family: 'Noto Sans', sans-serif; 
+        
     } 
 
     .box{
