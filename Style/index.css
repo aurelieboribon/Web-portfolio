@@ -790,11 +790,10 @@
     }
 
     .split {
-        float:center;
-        font-family: 'Noto Sans', sans-serif;
-        text-align:center;
-        
-     
+        text-align: center;
+            width:95%;
+            padding-left: 15px; 
+            padding-right: 15px;
     }
 
     .left{
