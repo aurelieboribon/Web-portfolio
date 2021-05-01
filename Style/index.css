@@ -724,6 +724,7 @@
     }
 
     .row4{
+        display:grid;
         grid-template-columns: repeat(2, 100px);
         
    }
