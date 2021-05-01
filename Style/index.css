@@ -797,8 +797,11 @@
     }
 
     .left{
-        float:center;  
-        font-family: 'Noto Sans', sans-serif;  
+        float: center;
+        font-family: 'Noto Sans', sans-serif;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;  
         
     }
 
@@ -906,15 +909,7 @@
         background-color:gray;
     }
     
-    
-    .left3{
-        float: center;
-        font-family: 'Noto Sans', sans-serif;
-        text-align: center;
-        margin-left: auto;
-        margin-right: auto;
 
-    }
 
     .Map{
         width:100%;
