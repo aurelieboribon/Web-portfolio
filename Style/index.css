@@ -414,7 +414,7 @@
     }
 
    .row3{
-       width:100%;
+        grid-row: 1 / span 2;
    }
 
     .col{
