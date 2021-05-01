@@ -681,7 +681,7 @@
     .navbar #myLinks {
         display: flex;
         text-align:center;
-        float:center;
+       
     }
     
     .navbar a.icon {
@@ -873,7 +873,7 @@
         padding: 6px 20px;
         width: 96%;
         text-align: left;
-        float: center;
+       
      
     }
     
@@ -910,7 +910,7 @@
         box-shadow: 0 1px 1px;
         background-color: black;
         padding-top: 0.5px;
-        padding-bottom: 0,5px;
+        padding-bottom: 0.5px;
         left:50px;
         text-align: center;
         color: white;
