@@ -461,7 +461,7 @@
 
     .font2{
         font-family: 'Noto Sans', sans-serif; 
-        text-align:center;
+        color:hotpink;
     } 
 
     .font6{
@@ -709,9 +709,8 @@
     }
 
     .row3{
-        flex-direction: column;
-            
-       }
+        display:flex;
+        text-align: center;
 
     }
 
@@ -771,14 +770,15 @@
     
     .card{
         box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
     }
     
     .dimension2{
-        width: 450px; 
-        height: 350px;
-        border-style: hidden;
+        width: 400px; 
+        height: 200px;
         text-align: center;
-        flex:50%;
         
     
     }
