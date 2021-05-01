@@ -710,7 +710,7 @@
     }
 
     .col{
-        flex: 100%;
+        width: 100%;
        
     }
 
@@ -759,9 +759,12 @@
     }
     
     .dimension2{
-        width: 400px; 
-        height: 200px;
+        width: 450px; 
+        height: 350px;
+        border-style: hidden;
         text-align: center;
+        flex:50%;
+    }
         
     
     }
