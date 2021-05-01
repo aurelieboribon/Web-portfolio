@@ -461,7 +461,7 @@
 
     .font2{
         font-family: 'Noto Sans', sans-serif; 
-        color:hotpink;
+        text-align:center;
     } 
 
     .font6{
@@ -775,9 +775,11 @@
     }
     
     .dimension2{
-        width: 400px; 
-        height: 200px;
+        width: 450px; 
+        height: 350px;
+        border-style: hidden;
         text-align: center;
+        flex:50%;
         
     
     }
