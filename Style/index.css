@@ -414,8 +414,8 @@
     }
 
    .row3{
-        flex-direction: column;
-        grid-row: 1 / span 2;
+        display: grid;
+        grid-template-columns: auto ;
    }
 
     .col{
