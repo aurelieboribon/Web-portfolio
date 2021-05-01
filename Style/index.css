@@ -460,8 +460,7 @@
     }
 
     .font2{
-        box-shadow: 0 0 0;
-        background-color: black;
+        font-family: 'Noto Sans', sans-serif;
         
 
     } 
