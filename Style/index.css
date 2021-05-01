@@ -479,9 +479,9 @@
     .card{
         box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
         width:450px;
-        height:370px;
+        height:380px;
         padding-right: 40%;
-        text-align: center;
+        
     }
 
     .font5{
