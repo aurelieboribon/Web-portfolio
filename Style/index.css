@@ -415,7 +415,7 @@
 
    .row3{
         display: grid;
-        grid-template-columns: auto auto;
+        grid-template-columns: auto;
    }
 
    .row3 > div{
