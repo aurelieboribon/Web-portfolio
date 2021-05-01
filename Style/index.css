@@ -475,6 +475,14 @@
       
     } 
 
+    div.col1{
+
+        vertical-align: top;
+        display: inline-block;
+        text-align: center;
+        width: 120px;
+    }
+
     .font6{
         font-family: 'Noto Sans', sans-serif; 
         text-align:center;
