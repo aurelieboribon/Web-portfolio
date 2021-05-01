@@ -476,11 +476,8 @@
     } 
 
     div.p{
-
-        vertical-align: top;
-        display: inline-block;
         text-align: center;
-        width: 120px;
+       
     }
 
     .font6{
