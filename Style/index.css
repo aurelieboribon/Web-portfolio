@@ -467,11 +467,11 @@
         background-color: black;
         padding-top: 0px;
         padding-bottom: 1px;
-        width: 40%;
+        width: 10%;
         text-align: center;
         color:white;
-        margin-left: 70%;
-        bottom:auto;
+        flex:50%;
+      
        
       
     } 
