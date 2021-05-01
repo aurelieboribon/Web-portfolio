@@ -468,8 +468,8 @@
         width: 20%;
         text-align: center;
         color:white;
-        padding: 15px 30px 15px 30px;
-        position:static;
+        padding: 8px 15px 8px 15px;
+        position:relative;
      
     } 
 
