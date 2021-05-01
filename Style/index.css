@@ -431,10 +431,11 @@
     }
 
     .dimension{
-        width: 240px; 
-        height: 240px;
+        width: 450px; 
+        height: 350px;
         border-style: hidden;
         text-align: center;
+        flex:50%;
        
        
     }
