@@ -9,8 +9,15 @@
         height:200px;
 
     }
+
+    #style2 {
+        width:1500px; 
+        height:450px;
+        background: url(video.jpg) no-repeat;
+        background-size: cover;
+      }
     
-    .style2{
+    style2{
         width:1500px; 
         height:450px;
         
