@@ -705,6 +705,15 @@
         background: url(video.jpg) no-repeat !important;
     }
 
+    .video a{
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        font-family: 'Permanent Marker', cursive;
+        font-size: 15px;  
+    }
+
+
     .row{ 
         flex-direction: column;
         
