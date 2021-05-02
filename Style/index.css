@@ -13,6 +13,7 @@
     .style2 {
         width:100%; 
         height:75%;
+        background: url(video.jpg) no-repeat;
         
       }
     
@@ -400,6 +401,7 @@
     .style2{
         width:100%; 
         height:75%;
+        background: url(video.jpg) no-repeat;
        
     }
 
@@ -700,6 +702,7 @@
     .style2{
         width:100%; 
         height:75%;
+        background: url(video.jpg) no-repeat;
     }
 
     .row{ 
