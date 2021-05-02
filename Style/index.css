@@ -13,10 +13,16 @@
         font-size: 15px;  
     }
 
-    #videobg {
+    .style{
+        width:430px;
+        height:200px;
+
+    }
+    
+    .style2{
         width:1050px; 
         height:450px;
-      }
+    }
 
     .container{
         text-align: center;
@@ -75,16 +81,7 @@
         display: none;
     }
 
-    .style{
-        width:430px;
-        height:200px;
-
-    }
     
-    .style2{
-        width:1050px; 
-        height:450px;
-    }
     
     .row{
         display:flex;
