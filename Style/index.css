@@ -16,6 +16,8 @@
     #videobg {
         background: url(video.jpg) no-repeat;
         background-size: cover;
+        width:1050px; 
+        height:450px;
       }
 
     .container{
