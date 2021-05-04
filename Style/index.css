@@ -183,7 +183,6 @@
         height: 100%;
         width: 100%;
         display: grid;
-        animation: zoomin 1s ease;
     
       }
           
@@ -325,15 +324,6 @@
         padding-right: 3px;
     }
     
-    
-    .video a{
-        color: black;
-        text-align: center;
-        padding: 14px 16px;
-        font-family: 'Permanent Marker', cursive;
-        font-size: 15px;  
-    }
-
     .container{
         text-align: center;
         width:150%;
@@ -532,7 +522,7 @@
         font-size: small;
         width: 95%;
         padding: 10px;
-        border: 2px solid #ccc;
+        border: 2px black;
         margin-top: 6px;
         margin-bottom: 17px;
         
@@ -543,7 +533,7 @@
         font-size: small;
         width: 95%;
         padding: 10px;
-        border: 2px solid #ccc;
+        border: 2px black;
         margin-top: 6px;
         margin-bottom: 17px;
         height: 170px;
@@ -557,7 +547,7 @@
         font-weight: bold;
         width: 100%;
         padding: 10px;
-        border:black;
+        border:2px black;
         margin-bottom: 17px;
         cursor: pointer;
         
