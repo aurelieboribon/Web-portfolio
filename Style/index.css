@@ -517,7 +517,7 @@
      
     }
 
-    input[type=text] {
+    .input[type=text] {
         text-align: center;
         font-size: small;
         width: 95%;
@@ -528,7 +528,7 @@
         
     }
     
-    textarea[type=textarea] {
+    .textarea[type=textarea] {
         text-align: left;
         font-size: small;
         width: 95%;
@@ -540,7 +540,7 @@
     }
     
     
-    input[type=submit] {
+    .input[type=submit] {
         background-color: palevioletred;
         font-size: medium;
         color: black;
