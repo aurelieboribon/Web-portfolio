@@ -529,7 +529,7 @@
     }
     
     textarea[type=textarea] {
-        text-align: left;
+        text-align: center;
         font-size: small;
         width: 95%;
         padding: 10px;
