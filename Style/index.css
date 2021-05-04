@@ -529,8 +529,8 @@
     }
     
     textarea[type=textarea] {
-        text-align: center;
-        font-size: small;
+        text-align: left;
+        font-size: large;
         width: 95%;
         padding: 10px;
         border: 2px black;
